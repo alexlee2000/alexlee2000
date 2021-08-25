@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @alexlee2000
+- 👀 I’m interested in Neural Networks, Deep Learning and Machine Learning 
+- 🌱 I’m currently learning Python and TensorFlow
+- 💞️ I’m looking to collaborate on any interesting Machine Learning projects
+- 📫 How to reach me --> alex.lee12341@hotmail.com
+
+<!---
+alexlee2000/alexlee2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
