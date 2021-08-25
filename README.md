@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexlee2000
-- 👀 I’m interested in Neural Networks, Deep Learning and Machine Learning 
+- 👀 I’m interested in Data Science, Neural Networks, Deep Learning and Machine Learning 
 - 🌱 I’m currently learning Python and TensorFlow
 - 💞️ I’m looking to collaborate on any interesting Machine Learning projects
 - 📫 How to reach me --> alex.lee12341@hotmail.com
