@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexlee2000
 - 👀 I’m interested in Data Science, Neural Networks, Deep Learning and Machine Learning. 
-- 🌱 I’m currently learning Python and RShiny
+- 🌱 My current focus right now is to really hone my existing Python/RShiny skills. I have attached some of my uni projects below, but I will be looking to add some more self-paced projects soon!
 - 📫 How to reach me --> alex.lee12341@hotmail.com
 
 <!---
